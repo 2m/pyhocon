@@ -3,7 +3,7 @@
 from setuptools import setup
 
 setup(
-    name='pyhocon',
+    name='pyhocon3',  # temporary name for local use until python3 support gets merged and released
     version='0.2.0',
     description='HOCON parser for Python',
     long_description='pyhocon is a HOCON parser for Python. Additionally we provide a tool (pyhocon) to convert any HOCON content into json, yaml and properties format.',
